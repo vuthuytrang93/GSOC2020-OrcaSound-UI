@@ -1,8 +1,16 @@
 # GSOC2020-OrcaSound-UI
-This is the Front-end re-designed for the orcasound live listening website :) 
 
-This is meant for A/B testing 
+Introduction
+------------
 
+This is the Front-end re-designed for the orcasound live listening website as a part of Google Summer of Code 2020 application 
+
+Requirements
+------------
+No specials requirements
+
+Installation
+------------
 Initialize by:
 `npm install`
 `npm start`
